@@ -3,11 +3,11 @@
 
 | Name     | 
 |:-----:   |
-| Boam     |
-| Feruz    |
-| Harun    |
-| Miroslav |
-| Murielle |
-| Yana     |
+| [Boam](./Boam.md)     |
+| [Feruz](./Feruz.md)    |
+| [Harun](./Harun.md)    |
+| [Miroslav](./Miroslav.md) |
+| [Murielle](./Murielle.md) |
+| [Yana](./Yana.md)     |
 
 Group-9-10-5 of [HYF](https://hackyourfuture.be/)
