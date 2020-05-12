@@ -1,1 +1,1 @@
-Hello I'm murielle and i love :smile: `:smile:` :sunny: `:sunny:`
+Hello I'm murielle and i love :smile: :sunny: days
